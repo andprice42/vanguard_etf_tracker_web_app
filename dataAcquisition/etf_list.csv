@@ -1,0 +1,87 @@
+Symbol,ETF Name,Asset Class,Total Assets ($MM)
+VOO,Vanguard S&P 500 ETF,Equity,431010
+VTI,Vanguard Total Stock Market ETF,Equity,386336
+VEA,Vanguard FTSE Developed Markets ETF,Equity,130605
+VUG,Vanguard Growth ETF,Equity,118794
+VTV,Vanguard Value ETF,Equity,114104
+BND,Vanguard Total Bond Market ETF,Bond,106546
+VIG,Vanguard Dividend Appreciation ETF,Equity,77788
+VWO,Vanguard FTSE Emerging Markets ETF,Equity,75592
+VXUS,Vanguard Total International Stock ETF,Equity,68312
+VGT,Vanguard Information Technology ETF,Equity,66047
+VO,Vanguard Mid-Cap ETF,Equity,63430
+VB,Vanguard Small Cap ETF,Equity,55306
+VYM,Vanguard High Dividend Yield Index ETF,Equity,53860
+BNDX,Vanguard Total International Bond ETF,Bond,53409
+VCIT,Vanguard Intermediate-Term Corporate Bond ETF,Bond,46825
+VEU,Vanguard FTSE All-World ex-US Index Fund,Equity,38656
+VT,Vanguard Total World Stock ETF,Equity,35674
+VCSH,Vanguard Short-Term Corporate Bond ETF,Bond,35581
+VV,Vanguard Large Cap ETF,Equity,34297
+VNQ,Vanguard Real Estate ETF,Real Estate,33065
+VTEB,Vanguard Tax-Exempt Bond ETF,Bond,32151
+BSV,Vanguard Short-Term Bond ETF,Bond,31470
+VBR,Vanguard Small Cap Value ETF,Equity,28305
+VGIT,Vanguard Intermediate-Term Treasury ETF,Bond,26117
+VGSH,Vanguard Short-Term Treasury ETF,Bond,20284
+VGK,Vanguard FTSE Europe ETF,Equity,19453
+VONG,Vanguard Russell 1000 Growth ETF,Equity,19255
+MGK,Vanguard Mega Cap Growth ETF,Equity,19017
+VXF,Vanguard Extended Market ETF,Equity,18453
+VHT,Vanguard Health Care ETF,Equity,17844
+VMBS,Vanguard Mortgage-Backed Securities ETF,Bond,17469
+BIV,Vanguard Intermediate-Term Bond ETF,Bond,17412
+VBK,Vanguard Small Cap Growth ETF,Equity,17301
+VOE,Vanguard Mid-Cap Value ETF,Equity,16251
+VOT,Vanguard Mid-Cap Growth ETF,Equity,13064
+VGLT,Vanguard Long-Term Treasury ETF,Bond,12055
+VTIP,Vanguard Short-Term Inflation-Protected Securities ETF,Bond,10959
+VOOG,Vanguard S&P 500 Growth ETF,Equity,10325
+VFH,Vanguard Financials ETF,Equity,9258
+VTWO,Vanguard Russell 2000 ETF,Equity,9122
+VDE,Vanguard Energy ETF,Equity,8682
+ESGV,Vanguard ESG U.S. Stock ETF,Equity,8382
+VSS,Vanguard FTSE All-World ex-US Small-Cap ETF,Equity,8328
+VONV,Vanguard Russell 1000 Value ETF,Equity,8242
+VCLT,Vanguard Long-Term Corporate Bond ETF,Bond,8040
+VYMI,Vanguard International High Dividend Yield ETF,Equity,7324
+VPL,Vanguard FTSE Pacific ETF,Equity,7224
+MGV,Vanguard Mega Cap Value ETF,Equity,7204
+VIGI,Vanguard International Dividend Appreciation ETF,Equity,6552
+VDC,Vanguard Consumer Staples ETF,Equity,6545
+BLV,Vanguard Long-Term Bond ETF,Bond,5675
+VCR,Vanguard Consumer Discretionary ETF,Equity,5579
+MGC,Vanguard Mega Cap ETF,Equity,5358
+VIS,Vanguard Industrials ETF,Equity,5191
+VPU,Vanguard Utilities ETF,Equity,5014
+VONE,Vanguard Russell 1000 ETF,Equity,4685
+VOOV,Vanguard S&P 500 Value ETF,Equity,4554
+VWOB,Vanguard Emerging Markets Government Bond ETF,Bond,4183
+VUSB,Vanguard Ultra-Short Bond ETF,Bond,4163
+VOX,Vanguard Communication Services ETF,Equity,4001
+VSGX,Vanguard ESG International Stock ETF,Equity,3752
+VNQI,Vanguard Global ex-U.S. Real Estate ETF,Real Estate,3557
+EDV,Vanguard Extended Duration Treasury ETF,Bond,3174
+VAW,Vanguard Materials ETF,Equity,2971
+VIOO,Vanguard S&P Small-Cap 600 ETF,Equity,2568
+VTHR,Vanguard Russell 3000 ETF,Equity,2306
+IVOO,Vanguard S&P Mid-Cap 400 ETF,Equity,1985
+VIOV,Vanguard S&P Small-Cap 600 Value ETF,Equity,1346
+VTC,Vanguard Total Corporate Bond ETF,Bond,991
+IVOG,Vanguard S&P Mid-Cap 400 Growth ETF,Equity,982
+VTWG,Vanguard Russell 2000 Growth ETF,Equity,918
+IVOV,Vanguard S&P Mid-Cap 400 Value ETF,Equity,873
+VIOG,Vanguard S&P Small-Cap 600 Growth ETF,Equity,826
+VTWV,Vanguard Russell 2000 Value ETF,Equity,796
+BNDW,Vanguard Total World Bond ETF,Bond,774
+VFVA,Vanguard U.S. Value Factor ETF,Equity,699
+VCEB,Vanguard ESG U.S. Corporate Bond ETF,Bond,537
+VFMO,Vanguard U.S. Momentum Factor ETF,Equity,505
+VTES,Vanguard Short-Term Tax Exempt Bond ETF,Bond,395
+VFQY,Vanguard U.S. Quality Factor ETF,Equity,326
+VFMF,Vanguard U.S. Multifactor ETF,Equity,261
+VCRB,Vanguard Core Bond ETF,,126
+VPLS,Vanguard Core Plus Bond ETF,,111
+VFMV,Vanguard U.S. Minimum Volatility ETF,Equity,106
+VTEI,Vanguard Intermediate-Term Tax-Exempt Bond ETF,,58
+VTEC,Vanguard California Tax-Exempt Bond ETF,,48

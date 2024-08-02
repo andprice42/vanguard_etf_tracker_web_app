@@ -1,0 +1,16 @@
+.title{
+    background-color: #fff;
+}
+.title ul{
+    width: 90%;
+    margin: 0 auto;
+    line-height: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+.title ul button{
+    border: none;
+    background-color: #89CFF0;
+    padding: 9px 15px;
+    border-radius: 15px;
+}

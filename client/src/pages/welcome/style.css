@@ -1,0 +1,22 @@
+.box{
+    width: 100%;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.box_left{
+    width: 20%;
+    height: 100%;
+    background-color: #fff;
+}
+
+.box_right{
+    width: 78%;
+    background-color: #fff;
+}
+
+.bottom{
+    text-align: center;
+    line-height: 40px;
+}

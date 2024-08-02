@@ -1,0 +1,125 @@
+import React, { memo } from 'react'
+
+export default memo(function Detailstext(data) {
+    const text = data.data[0]
+    return (
+        <div className='text'>
+            <ul>
+                <li>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td>
+                                Sector
+                                </td>
+                                <td>
+                                    {text.sector}
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                Industry
+                                </td>
+                                <td>
+                                {text.industry}
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                Country
+                                </td>
+                                <td>
+                                {text.country}
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                Volume
+                                </td>
+                                <td>
+                                {text.volume}
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </li>
+                <li>
+                    <table    >
+                        <tbody>
+                            <tr>
+                                <td>
+                                Open
+                                </td>
+                                <td>
+                                {text.open}
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                High
+                                </td>
+                                <td>
+                                {text.high}
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                Low
+                                </td>
+                                <td>
+                                {text.low}
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                Close
+                                </td>
+                                <td>
+                                {text.close}
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </li>
+                <li>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td>
+                                Daily Range
+                                </td>
+                                <td>
+                                {text.daily_range}
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                Daily Return
+                                </td>
+                                <td>
+                                {text.DailyReturn}
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                52-Week High
+                                </td>
+                                <td>
+                                {text.Year_High}
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                52-Week Low
+                                </td>
+                                <td>
+                                {text.Year_Low}
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </li>
+            </ul>
+        </div>
+    )
+})

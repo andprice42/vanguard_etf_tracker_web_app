@@ -1,0 +1,133 @@
+.box_right_show{
+    width: 95%;
+    margin: 30px auto 0;
+    display: flex;
+    /* justify-content: space-between; */
+    flex-wrap: wrap;
+}
+.box_right_show li{
+    width: 30%;
+    border: 1px solid #000;
+    padding: 9px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+    margin: 0 30px 40px 0;
+}
+.box_table{
+    width: 100%;
+}
+.box_table svg{
+    width: 30px;
+    height: 30px;
+}
+.box_table tr:nth-child(2){
+    height: 90px;
+}
+
+.box_table p{
+    width: 100%;
+    font-size: 15px;
+}
+.box_table h2:nth-child(1):hover{
+    color: red;
+}
+
+.rise{
+    position: relative;
+    top: -5px;
+    right: -9px;
+    color: #65a542;
+}
+.fall{
+    position: relative;
+    top: -5px;
+    right: -9px;
+    color: #ba3b30;
+}
+
+.box_Search{
+    width: 50%;
+    margin: 30px auto;
+    border: 1px solid #000;
+    padding: 9px;
+    border-radius: 30px;
+}
+
+.box_Search svg{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    top: 4px;
+    left: 9px;
+}
+.box_Search input{
+    width: 88%;
+    height: 25px;
+    position: relative;
+    top: -0px;
+    left: 20px;
+    border: none;
+    outline: none;
+}
+
+.box_data{
+    width: 95%;
+    margin: 30px auto;
+}
+.box_data table{
+    width: 100%;
+    text-align: center;
+    line-height: 40px;
+}
+
+.box_data svg{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    top: 9px;
+}
+
+.ant-pagination-prev .ant-pagination-item-link{
+    position: relative;
+    top: -19px;
+}
+.ant-pagination-next .ant-pagination-item-link{
+    position: relative;
+    top: -19px;
+}
+
+.box_data ul{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.ant-pagination{
+    width: 45%;
+    margin: 0 auto;
+    height: 60px;
+    line-height: 60px;
+}
+/* .anticon-left,.anticon-right{
+    position: relative;
+    top: -19px;
+} */
+.ant-table-cell:nth-child(4){
+    display: flex;
+}
+.ant-table-cell:nth-child(1) a{
+    display: flex;
+    display: block;
+    width: 100%;
+}
+.ant-table-cell:nth-child(1) a ul{
+    display: flex;
+    width: 100%;
+}
+.ant-table-cell:nth-child(1) a ul h3{
+    margin-left: 9px;
+}
+.ant-table-cell svg{
+    width: 30px;
+    height: 30px;
+}

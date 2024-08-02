@@ -1,0 +1,12 @@
+.ant-table-content .icon{
+    width: 25px;
+    height: 25px;
+}
+.icon2 .icon{
+    position: relative;
+    top: 7px;
+    margin: 0 5px;
+}
+.ant-pagination{
+    width: 60%;
+}

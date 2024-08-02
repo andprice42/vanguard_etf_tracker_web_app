@@ -1,0 +1,9 @@
+{
+  "rds_host": "iceydatabase.caqw1q4tuhyj.us-east-1.rds.amazonaws.com",
+  "rds_port": "3306",
+  "rds_user": "icey",
+  "rds_password": "cyvfyv-zipnoK-0jucty",
+  "rds_db": "vanguard",
+  "server_host": "localhost",
+  "server_port": "8080"
+}

@@ -1,0 +1,406 @@
+PERMNO,ticker,company,sector,industry,country
+14593,AAPL,APPLE INC,Technology,Consumer Electronics,United States
+10107,MSFT,MICROSOFT CORP,Technology,Software - Infrastructure,United States
+84788,AMZN,AMAZON COM INC,Consumer Cyclical,Internet Retail,United States
+11533,FICO,FAIR ISAAC CORP,Technology,Software - Application,United States
+87006,UTHR,UNITED THERAPEUTICS CORP,Healthcare,Biotechnology,United States
+32942,HUBB,HUBBELL INC,Industrials,Electrical Equipment & Parts,United States
+80864,RS,RELIANCE STEEL & ALUMINUM CO,Basic Materials,Steel,United States
+89031,AXON,AXON ENTERPRISE INC,Industrials,Aerospace & Defense,United States
+75854,LSCC,LATTICE SEMICONDUCTOR CORP,Technology,Semiconductors,United States
+90720,BLDR,BUILDERS FIRSTSOURCE INC,Industrials,Building Products & Equipment,United States
+79686,DECK,DECKERS OUTDOOR CORP,Consumer Cyclical,Footwear & Accessories,United States
+27334,CSL,CARLISLE COMPANIES,Industrials,Building Products & Equipment,United States
+36397,FHN,FIRST HORIZON CORP,Financial Services,Banks - Regional,United States
+79094,JBL,JABIL INC,Technology,Electronic Components,United States
+79210,RGA,REINSURANCE GROUP OF AMERICA INC,Financial Services,Insurance - Reinsurance,United States
+27422,CLF,CLEVELAND CLIFFS INC NEW,Basic Materials,Steel,United States
+90870,RBC,R B C BEARINGS INC,Industrials,Tools & Accessories,United States
+78947,ELS,EQUITY LIFESTYLE PROPERTIES INC,Real Estate,REIT - Residential,United States
+85763,WPC,W P CAREY INC,Real Estate,REIT - Diversified,United States
+90925,FNF,FIDELITY NATIONAL FINL INC NEW,Financial Services,Insurance - Specialty,United States
+76644,X,UNITED STATES STEEL CORP NEW,Basic Materials,Steel,United States
+92655,UNH,UNITEDHEALTH GROUP INC,Healthcare,Healthcare Plans,United States
+22111,JNJ,JOHNSON & JOHNSON,Healthcare,Drug Manufacturers - General,United States
+11850,XOM,EXXON MOBIL CORP,Energy,Oil & Gas Integrated,United States
+83443,BRK-B,Berkshire Hathaway Inc Class B,Financial Services,Insurance - Diversified,United States
+17778,BRK,BERKSHIRE HATHAWAY INC DEL,N/A,N/A,N/A
+47896,JPM,JPMORGAN CHASE & CO,Financial Services,Banks - Diversified,United States
+93002,AVGO,BROADCOM INC,Technology,Semiconductors,United States
+28222,APD,AIR PRODUCTS & CHEMICALS INC,Basic Materials,Specialty Chemicals,United States
+36468,SHW,SHERWIN WILLIAMS CO,Basic Materials,Specialty Chemicals,United States
+81774,FCX,FREEPORT MCMORAN INC,Basic Materials,Copper,United States
+75591,IEX,IDEX CORP,Industrials,Specialty Industrial Machinery,United States
+84262,STLD,STEEL DYNAMICS INC,Basic Materials,Steel,United States
+12476,TRGP,TARGA RESOURCES CORP,Energy,Oil & Gas Midstream,United States
+75912,PTC,P T C INC,Technology,Software - Application,United States
+88439,ENTG,ENTEGRIS INC,Technology,Semiconductor Equipment & Materials,United States
+32986,ATO,ATMOS ENERGY CORP,Utilities,Utilities - Regulated Gas,United States
+89138,BG,BUNGE GLOBAL S A,Consumer Defensive,Farm Products,United States
+12366,BAH,BOOZ ALLEN HAMILTON HOLDING CORP,Industrials,Consulting Services,United States
+93436,TSLA,TESLA INC,Consumer Cyclical,Auto Manufacturers,United States
+66181,HD,HOME DEPOT INC,Consumer Cyclical,Home Improvement Retail,United States
+18163,PG,PROCTER & GAMBLE CO,Consumer Defensive,Household & Personal Products,United States
+11308,KO,COCA COLA CO,Consumer Defensive,Beverages - Non-Alcoholic,United States
+13856,PEP,PEPSICO INC,Consumer Defensive,Beverages - Non-Alcoholic,United States
+87055,COST,COSTCO WHOLESALE CORP NEW,Consumer Defensive,Discount Stores,United States
+55976,WMT,WALMART INC,Consumer Defensive,Discount Stores,United States
+14541,CVX,CHEVRON CORP NEW,Energy,Oil & Gas Integrated,United States
+13928,COP,CONOCOPHILLIPS,Energy,Oil & Gas E&P,United States
+59408,BAC,BANK OF AMERICA CORP,Financial Services,Banks - Diversified,United States
+92611,V,VISA INC,Financial Services,Credit Services,United States
+91233,MA,MASTERCARD INC,Financial Services,Credit Services,United States
+19393,BMY,BRISTOL MYERS SQUIBB CO,Healthcare,Drug Manufacturers - General,United States
+21936,PFE,PFIZER INC,Healthcare,Drug Manufacturers - General,United States
+75825,EOG,EOG RESOURCES INC,Energy,Oil & Gas E&P,United States
+13901,MO,ALTRIA GROUP INC,Consumer Defensive,Tobacco,United States
+76614,REGN,REGENERON PHARMACEUTICALS INC,Healthcare,Biotechnology,United States
+81061,MCK,MCKESSON H B O C INC,Healthcare,Medical Distribution,United States
+13721,ABBV,ABBVIE INC,Healthcare,Drug Manufacturers - General,United States
+75241,PXD,PIONEER NATURAL RESOURCES CO,Energy,Oil & Gas E&P,United States
+89179,ELV,ELEVANCE HEALTH INC,Healthcare,Healthcare Plans,United States
+77274,GILD,GILEAD SCIENCES INC,Healthcare,Drug Manufacturers - General,United States
+49373,HRB,BLOCK H & R INC,Consumer Cyclical,Personal Services,United States
+34833,OXY,OCCIDENTAL PETROLEUM CORP,Energy,Oil & Gas E&P,United States
+92602,PM,PHILIP MORRIS INTERNATIONAL INC,Consumer Defensive,Tobacco,United States
+76605,AZO,AUTOZONE INC,Consumer Cyclical,Specialty Retail,United States
+87842,MET,METLIFE INC,Financial Services,Insurance - Life,United States
+12490,IBM,INTERNATIONAL BUSINESS MACHS COR,Technology,Information Technology Services,United States
+49656,BK,BANK OF NEW YORK MELLON CORP,Financial Services,Asset Management,United States
+64186,CI,CIGNA GROUP,Healthcare,Healthcare Plans,United States
+17750,KMB,KIMBERLY CLARK CORP,Consumer Defensive,Household & Personal Products,United States
+85269,VLO,VALERO ENERGY CORP NEW,Energy,Oil & Gas Refining & Marketing,United States
+66800,AIG,AMERICAN INTERNATIONAL GROUP INC,Financial Services,Insurance - Diversified,United States
+38703,WFC,WELLS FARGO & CO NEW,Financial Services,Banks - Diversified,United States
+14008,AMGN,AMGEN INC,Healthcare,Drug Manufacturers - General,United States
+76744,VRTX,VERTEX PHARMACEUTICALS INC,Healthcare,Biotechnology,United States
+17005,CVS,C V S HEALTH CORP,Healthcare,Healthcare Plans,United States
+61399,LOW,LOWES COMPANIES INC,Consumer Cyclical,Home Improvement Retail,United States
+18312,MRNA,MODERNA INC,Healthcare,Biotechnology,United States
+79103,ORLY,O REILLY AUTOMOTIVE INC NEW,Consumer Cyclical,Specialty Retail,United States
+84723,LNG,CHENIERE ENERGY INC,Energy,Oil & Gas Midstream,United States
+12872,MPC,MARATHON PETROLEUM CORP,Energy,Oil & Gas Refining & Marketing,United States
+59176,AXP,AMERICAN EXPRESS CO,Financial Services,Credit Services,United States
+87137,DVN,DEVON ENERGY CORP NEW,Energy,Oil & Gas E&P,United States
+22752,MRK,MERCK & CO INC NEW,Healthcare,Drug Manufacturers - General,United States
+69032,MS,MORGAN STANLEY DEAN WITTER & CO,Financial Services,Capital Markets,United States
+16678,KR,KROGER CO,Consumer Defensive,Grocery Stores,United States
+15069,MRO,MARATHON OIL CORP,Energy,Oil & Gas E&P,United States
+17039,CEIX,CONSOL ENERGY INC NEW,Energy,Thermal Coal,United States
+76076,CSCO,CISCO SYSTEMS INC,Technology,Communication Equipment,United States
+11403,CDNS,CADENCE DESIGN SYSTEMS INC,Technology,Software - Application,United States
+18729,CL,COLGATE PALMOLIVE CO,Consumer Defensive,Household & Personal Products,United States
+88568,SPTN,SPARTANNASH CO,Consumer Defensive,Food Distribution,United States
+11701,IMKTA,INGLES MARKETS INC,Consumer Defensive,Grocery Stores,United States
+13356,PSX,PHILLIPS 66,Energy,Oil & Gas Refining & Marketing,United States
+76095,HOLX,HOLOGIC INC,Healthcare,Medical Instruments & Supplies,United States
+12622,HCA,H C A HEALTHCARE INC,Healthcare,Medical Care Facilities,United States
+48653,HUM,HUMANA INC,Healthcare,Healthcare Plans,United States
+91606,CPRX,CATALYST PHARMACEUTICALS INC,Healthcare,Biotechnology,United States
+88417,ACLS,AXCELIS TECHNOLOGIES INC,Technology,Semiconductor Equipment & Materials,United States
+78987,MCHP,MICROCHIP TECHNOLOGY INC,Technology,Semiconductors,United States
+18542,CAT,CATERPILLAR INC,Industrials,Farm & Heavy Construction Machinery,United States
+89841,CNO,C N O FINANCIAL GROUP INC,Financial Services,Insurance - Life,United States
+21020,AAL,AMERICAN AIRLINES GROUP INC,Industrials,Airlines,United States
+13936,PVH,P V H CORP,Consumer Cyclical,Apparel Manufacturing,United States
+16119,ATKR,ATKORE INC,Industrials,Electrical Equipment & Parts,United States
+54704,MOD,MODINE MANUFACTURING CO,Consumer Cyclical,Auto Parts,United States
+86783,BKNG,BOOKING HOLDINGS INC,Consumer Cyclical,Travel Services,United States
+46886,KLAC,K L A CORP,Technology,Semiconductor Equipment & Materials,United States
+10104,ORCL,ORACLE CORP,Technology,Software - Infrastructure,United States
+14229,OMF,ONEMAIN HOLDINGS INC,Financial Services,Credit Services,United States
+14702,AMAT,APPLIED MATERIALS INC,Technology,Semiconductor Equipment & Materials,United States
+13407,META,META PLATFORMS INC,Communication Services,Internet Content & Information,United States
+88182,ON,ON SEMICONDUCTOR CORP,Technology,Semiconductors,United States
+44943,DIOD,DIODES INC,Technology,Semiconductors,United States
+93330,PRI,PRIMERICA INC,Financial Services,Insurance - Life,United States
+40539,TJX,T J X COMPANIES INC NEW,Consumer Cyclical,Apparel Retail,United States
+10696,FI,FISERV INC,Technology,Information Technology Services,United States
+11154,PLAB,PHOTRONICS INC,Technology,Semiconductor Equipment & Materials,United States
+13862,TMHC,TAYLOR MORRISON HOME CORP,Consumer Cyclical,Residential Construction,United States
+76573,MLI,MUELLER INDUSTRIES INC,Industrials,Metal Fabrication,United States
+75510,ADBE,ADOBE INC,Technology,Software - Infrastructure,United States
+90319,GOOGL,ALPHABET INC,Communication Services,Internet Content & Information,United States
+20190,ABNB,AIRBNB INC,Consumer Cyclical,Travel Services,United States
+48486,LRCX,LAM RESH CORP,Technology,Semiconductor Equipment & Materials,United States
+89525,CMCSA,COMCAST CORP NEW,Communication Services,Telecom Services,United States
+76804,MTG,M G I C INVESTMENT CORP WIS,Financial Services,Insurance - Specialty,United States
+57904,AFL,AFLAC INC,Financial Services,Insurance - Life,United States
+34817,NUE,NUCOR CORP,Basic Materials,Steel,United States
+54148,PHM,PULTE GROUP INC,Consumer Cyclical,Residential Construction,United States
+11208,OFG,O F G BANCORP,Financial Services,Banks - Regional,United States
+16505,BPOP,POPULAR INC,Financial Services,Banks - Regional,United States
+13511,PANW,PALO ALTO NETWORKS INC,Technology,Software - Infrastructure,United States
+79909,MHO,M I HOMES INC,Consumer Cyclical,Residential Construction,United States
+50876,LLY,LILLY ELI & CO,Healthcare,Drug Manufacturers - General,United States
+24766,NOC,NORTHROP GRUMMAN CORP,Industrials,Aerospace & Defense,United States
+71175,UNM,UNUM GROUP,Financial Services,Insurance - Life,United States
+17144,GIS,GENERAL MILLS INC,Consumer Defensive,Packaged Foods,United States
+10516,ADM,ARCHER DANIELS MIDLAND CO,Consumer Defensive,Farm Products,United States
+18592,CTVA,CORTEVA INC,Basic Materials,Agricultural Inputs,United States
+16600,HSY,HERSHEY CO,Consumer Defensive,Confectioners,United States
+89269,CNC,CENTENE CORP DEL,Healthcare,Healthcare Plans,United States
+60687,AFG,AMERICAN FINANCIAL GROUP INC NEW,Financial Services,Insurance - Property & Casualty,United States
+64390,PGR,PROGRESSIVE CORP OH,Financial Services,Insurance - Property & Casualty,United States
+10629,FNB,F N B CORP PA,Financial Services,Banks - Regional,United States
+44644,ADP,AUTOMATIC DATA PROCESSING INC,Industrials,Staffing & Employment Services,United States
+12052,GD,GENERAL DYNAMICS CORP,Industrials,Aerospace & Defense,United States
+21178,LMT,LOCKHEED MARTIN CORP,Industrials,Aerospace & Defense,United States
+93096,DG,DOLLAR GENERAL CORP NEW,Consumer Defensive,Discount Stores,United States
+43449,MCD,MCDONALDS CORP,Consumer Cyclical,Restaurants,United States
+77357,SNPS,SYNOPSYS INC,Technology,Software - Infrastructure,United States
+91937,TMUS,T MOBILE U S INC,Communication Services,Telecom Services,United States
+26825,K,KELLANOVA,Consumer Defensive,Packaged Foods,United States
+32870,HRL,HORMEL FOODS CORP,Consumer Defensive,Packaged Foods,United States
+12623,HII,HUNTINGTON INGALLS INDS INC,Industrials,Aerospace & Defense,United States
+20395,CVBF,C V B FINANCIAL CORP,Financial Services,Banks - Regional,United States
+13323,ENPH,ENPHASE ENERGY INC,Technology,Solar,United States
+11955,WM,WASTE MANAGEMENT INC DEL,Industrials,Waste Management,United States
+14076,MUSA,MURPHY USA INC,Consumer Cyclical,Specialty Retail,United States
+80128,VMI,VALMONT INDUSTRIES INC,Industrials,Conglomerates,United States
+87432,A,AGILENT TECHNOLOGIES INC,Healthcare,Diagnostics & Research,United States
+90664,DXCM,DEXCOM INC,Healthcare,Medical Devices,United States
+90178,ALNY,ALNYLAM PHARMACEUTICALS INC,Healthcare,Biotechnology,United States
+19350,DE,DEERE & CO,Industrials,Farm & Heavy Construction Machinery,United States
+22779,MSI,MOTOROLA SOLUTIONS INC,Technology,Communication Equipment,United States
+77605,BSX,BOSTON SCIENTIFIC CORP,Healthcare,Medical Devices,United States
+84827,RMBS,RAMBUS INC,Technology,Semiconductors,United States
+77702,SBUX,STARBUCKS CORP,Consumer Cyclical,Restaurants,United States
+19561,BA,BOEING CO,Industrials,Aerospace & Defense,United States
+12060,GE,GENERAL ELECTRIC CO,Industrials,Specialty Industrial Machinery,United States
+85002,SRPT,SAREPTA THERAPEUTICS INC,Healthcare,Biotechnology,United States
+56573,ITW,ILLINOIS TOOL WORKS INC,Industrials,Specialty Industrial Machinery,United States
+18576,UBER,UBER TECHNOLOGIES INC,Technology,Software - Application,United States
+79545,BWA,BORGWARNER INC,Consumer Cyclical,Auto Parts,United States
+60871,ADI,ANALOG DEVICES INC,Technology,Semiconductors,United States
+89393,NFLX,NETFLIX INC,Communication Services,Entertainment,United States
+86580,NVDA,NVIDIA CORP,Technology,Semiconductors,United States
+41355,PH,PARKER HANNIFIN CORP,Industrials,Specialty Industrial Machinery,United States
+91090,CROX,CROCS INC,Consumer Cyclical,Footwear & Accessories,United States
+92402,MSCI,M S C I INC,Financial Services,Financial Data & Stock Exchanges,United States
+91068,CMG,CHIPOTLE MEXICAN GRILL INC,Consumer Cyclical,Restaurants,United States
+73139,SYK,STRYKER CORP,Healthcare,Medical Devices,United States
+88352,ISRG,INTUITIVE SURGICAL INC,Healthcare,Medical Instruments & Supplies,United States
+89731,LEN,LENNAR CORP,Consumer Cyclical,Residential Construction,United States
+16431,LW,LAMB WESTON HOLDINGS INC,Consumer Defensive,Packaged Foods,United States
+79785,NVR,N V R INC,Consumer Cyclical,Residential Construction,United States
+20193,AI,C3 AI INC,Technology,Software - Application,United States
+91907,SMCI,SUPER MICRO COMPUTER INC,Technology,Computer Hardware,United States
+92213,RIOT,RIOT PLATFORMS INC,Financial Services,Capital Markets,United States
+18835,DKNG,DRAFTKINGS INC,Consumer Cyclical,Gambling,United States
+61241,AMD,ADVANCED MICRO DEVICES INC,Technology,Semiconductors,United States
+90215,CRM,SALESFORCE INC,Technology,Software - Application,United States
+77661,DHI,D R HORTON INC,Consumer Cyclical,Residential Construction,United States
+89971,TPX,TEMPUR SEALY INTERNATIONAL INC,Consumer Cyclical,"Furnishings, Fixtures & Appliances",United States
+20357,IONQ,IONQ INC,Technology,Computer Hardware,United States
+17987,VRT,VERTIV HOLDINGS CO,Industrials,Electrical Equipment & Parts,United States
+93132,FTNT,FORTINET INC,Technology,Software - Infrastructure,United States
+14714,ANET,ARISTA NETWORKS INC,Technology,Computer Hardware,United States
+93263,CELH,CELSIUS HOLDINGS INC,Consumer Defensive,Beverages - Non-Alcoholic,United States
+60628,FDX,FEDEX CORP,Industrials,Integrated Freight & Logistics,United States
+82694,EME,EMCOR GROUP INC,Industrials,Engineering & Construction,United States
+13284,ALSN,ALLISON TRANSMISSION HLDGS INC,Consumer Cyclical,Auto Parts,United States
+13447,NOW,SERVICENOW INC,Technology,Software - Application,United States
+38093,AJG,GALLAGHER ARTHUR J & CO,Financial Services,Insurance Brokers,United States
+13628,WDAY,WORKDAY INC,Technology,Software - Application,United States
+59328,INTC,INTEL CORP,Technology,Semiconductors,United States
+88360,MRVL,MARVELL TECHNOLOGY INC,Technology,Semiconductors,United States
+91152,TDG,TRANSDIGM GROUP INC,Industrials,Aerospace & Defense,United States
+80575,SSD,SIMPSON MANUFACTURING CO INC,Basic Materials,Lumber & Wood Production,United States
+90377,ONTO,ONTO INNOVATION INC,Technology,Semiconductor Equipment & Materials,United States
+77338,ROP,ROPER TECHNOLOGIES INC,Technology,Software - Application,United States
+23393,CHD,CHURCH & DWIGHT INC,Consumer Defensive,Household & Personal Products,United States
+70703,EQC,EQUITY COMMONWEALTH,Real Estate,REIT - Office,United States
+89575,SAFT,SAFETY INSURANCE GROUP INC,Financial Services,Insurance - Property & Casualty,United States
+65875,VZ,VERIZON COMMUNICATIONS INC,Communication Services,Telecom Services,United States
+23182,CPK,CHESAPEAKE UTILITIES CORP,Utilities,Utilities - Regulated Gas,United States
+77379,THFF,FIRST FINANCIAL CORP IN,Financial Services,Banks - Regional,United States
+15579,TXN,TEXAS INSTRUMENTS INC,Technology,Semiconductors,United States
+83509,FCN,F T I CONSULTING INC,Industrials,Consulting Services,United States
+85488,OSIS,O S I SYSTEMS INC,Technology,Electronic Components,United States
+90550,DLB,DOLBY LABORATORIES INC,Industrials,Specialty Business Services,United States
+92852,LOPE,GRAND CANYON EDUCATION INC,Consumer Defensive,Education & Training Services,United States
+81095,NWBI,NORTHWEST BANCSHARES INC,Financial Services,Banks - Regional,United States
+75828,EA,ELECTRONIC ARTS INC,Communication Services,Electronic Gaming & Multimedia,United States
+66093,T,A T & T INC,Communication Services,Telecom Services,United States
+11404,ED,CONSOLIDATED EDISON INC,Utilities,Utilities - Regulated Electric,United States
+89397,VRNT,VERINT SYSTEMS INC,Technology,Software - Infrastructure,United States
+82107,WABC,WESTAMERICA BANCORPORATION,Financial Services,Banks - Regional,United States
+51625,SCI,SERVICE CORP INTERNATIONAL,Consumer Cyclical,Personal Services,United States
+89387,CPSI,COMPUTER PROGRAMS & SYSTEMS INC,Healthcare,Health Information Services,United States
+64961,NXGN.TA,NEXTGEN HEALTHCARE INC,Healthcare,Medical Instruments & Supplies,Israel
+12781,SR,SPIRE INC,Utilities,Utilities - Regulated Gas,United States
+39642,BDX,BECTON DICKINSON & CO,Healthcare,Medical Instruments & Supplies,United States
+24969,AVA,AVISTA CORP,Utilities,Utilities - Diversified,United States
+88924,FLO,FLOWERS FOODS INC,Consumer Defensive,Packaged Foods,United States
+88167,HSTM,HEALTHSTREAM INC,Healthcare,Health Information Services,United States
+10812,HTLD,HEARTLAND EXPRESS INC,Industrials,Trucking,United States
+90012,PETS,PETMED EXPRESS INC,Healthcare,Pharmaceutical Retailers,United States
+27959,DUK,DUKE ENERGY CORP NEW,Utilities,Utilities - Regulated Electric,United States
+72338,NHC,NATIONAL HEALTHCARE CORP,Healthcare,Medical Care Facilities,United States
+11442,CHCO,CITY HOLDING CO,Financial Services,Banks - Regional,United States
+90409,HURN,HURON CONSULTING GROUP INC,Industrials,Consulting Services,United States
+83738,CASS,CASS INFORMATION SYSTEMS INC,Industrials,Specialty Business Services,United States
+17683,CLBK,COLUMBIA FINANCIAL INC,Financial Services,Banks - Regional,United States
+35991,ROG,ROGERS CORP,Technology,Electronic Components,United States
+88664,JKHY,HENRY JACK & ASSOC INC,Technology,Information Technology Services,United States
+15707,HPE,HEWLETT PACKARD ENTERPRISE CO,Technology,Communication Equipment,United States
+93266,QNST,QUINSTREET INC,Communication Services,Advertising Agencies,United States
+90963,AMSF,AMERISAFE INC,Financial Services,Insurance - Specialty,United States
+91463,CVLT,COMMVAULT SYSTEMS INC,Technology,Software - Application,United States
+93429,CBOE,C B O E GLOBAL MARKETS INC,Financial Services,Financial Data & Stock Exchanges,United States
+36003,ROL,ROLLINS INC,Consumer Cyclical,Personal Services,United States
+63125,AGYS,AGILYSYS INC,Technology,Software - Application,United States
+24023,BATRK,ATLANTA BRAVES HOLDINGS INC,Communication Services,Entertainment,United States
+59045,KEX,KIRBY CORP,Industrials,Marine Shipping,United States
+64194,CHE,CHEMED CORP NEW,Healthcare,Medical Care Facilities,United States
+86228,RSG,REPUBLIC SERVICES INC,Industrials,Waste Management,United States
+45306,IDCC,INTERDIGITAL INC,Technology,Software - Application,United States
+82598,NTAP,NETAPP INC,Technology,Computer Hardware,United States
+90276,BLKB,BLACKBAUD INC,Technology,Software - Application,United States
+21371,CAH,CARDINAL HEALTH INC,Healthcare,Medical Distribution,United States
+89626,CME,C M E GROUP INC,Financial Services,Financial Data & Stock Exchanges,United States
+92493,LRN,STRIDE INC,Consumer Defensive,Education & Training Services,United States
+81540,COR,CENCORA INC,Healthcare,Medical Distribution,United States
+88988,IDT,I D T CORP,Communication Services,Telecom Services,United States
+51423,MCS,MARCUS CORP,Communication Services,Entertainment,United States
+21648,INST,INSTRUCTURE HOLDINGS INC,Technology,Software - Application,United States
+50789,MGEE,M G E ENERGY INC,Utilities,Utilities - Regulated Electric,United States
+85631,ADSK,AUTODESK INC,Technology,Software - Application,United States
+61621,PAYX,PAYCHEX INC,Industrials,Staffing & Employment Services,United States
+92203,LULU,LULULEMON ATHLETICA INC,Consumer Cyclical,Apparel Retail,Canada
+51369,TER,TERADYNE INC,Technology,Semiconductor Equipment & Materials,United States
+82642,EL,LAUDER ESTEE COS INC,Consumer Defensive,Household & Personal Products,United States
+20391,TPL,TEXAS PACIFIC LAND CORP,Energy,Oil & Gas E&P,United States
+20391,TPL,TEXAS PACIFIC LAND CORP,Energy,Oil & Gas E&P,United States
+14752,TPL,Texas Pacific Land Corporation,Energy,Oil & Gas E&P,United States
+14752,TPL,Texas Pacific Land Corporation,Energy,Oil & Gas E&P,United States
+76841,BIIB,BIOGEN INC,Healthcare,Drug Manufacturers - General,United States
+86158,CTSH,COGNIZANT TECHNOLOGY SOLS CORP,Technology,Information Technology Services,United States
+78981,LSTR,LANDSTAR SYSTEM INC,Industrials,Integrated Freight & Logistics,United States
+14776,SYF,SYNCHRONY FINANCIAL,Financial Services,Credit Services,United States
+20482,ABT,ABBOTT LABORATORIES,Healthcare,Medical Devices,United States
+17787,EQH,EQUITABLE HOLDINGS INC,Financial Services,Insurance - Diversified,United States
+86810,TREX,TREX COMPANY INC,Industrials,Building Products & Equipment,United States
+90880,AMP,AMERIPRISE FINANCIAL INC,Financial Services,Asset Management,United States
+85992,MANH,MANHATTAN ASSOCIATES INC,Technology,Software - Application,United States
+92293,TDC,TERADATA CORP DE,Technology,Software - Infrastructure,United States
+93289,MXL,MAXLINEAR INC,Technology,Semiconductors,United States
+53110,BMI,BADGER METER INC,Technology,Scientific & Technical Instruments,United States
+92871,VRTS,VIRTUS INVESTMENT PARTNERS INC,Financial Services,Asset Management,United States
+10517,PRG,PROG HOLDINGS INC,Industrials,Rental & Leasing Services,United States
+15429,LNTH,LANTHEUS HOLDINGS INC,Healthcare,Drug Manufacturers - Specialty & Generic,United States
+87657,EW,EDWARDS LIFESCIENCES CORP,Healthcare,Medical Devices,United States
+13600,QLYS,QUALYS INC,Technology,Software - Infrastructure,United States
+22592,MMM,3M CO,Industrials,Conglomerates,United States
+17701,SMAR,SMARTSHEET INC,Technology,Software - Application,United States
+82777,MSM,M S C INDUSTRIAL DIRECT INC,Industrials,Industrial Distribution,United States
+88661,TPR,TAPESTRY INC,Consumer Cyclical,Luxury Goods,United States
+86356,EBAY,EBAY INC,Consumer Cyclical,Internet Retail,United States
+82515,POOL,POOL CORP,Industrials,Industrial Distribution,United States
+46674,GPC,GENUINE PARTS CO,Consumer Cyclical,Specialty Retail,United States
+70578,ECL,ECOLAB INC,Basic Materials,Specialty Chemicals,United States
+13730,PBF,P B F ENERGY INC,Energy,Oil & Gas Refining & Marketing,United States
+79878,UFPI,U F P INDUSTRIES INC,Basic Materials,Lumber & Wood Production,United States
+85914,BBY,BEST BUY COMPANY INC,Consumer Cyclical,Specialty Retail,United States
+89195,PFG,PRINCIPAL FINANCIAL GROUP INC,Financial Services,Asset Management,United States
+17783,CHX,CHAMPIONX CORP,Energy,Oil & Gas Equipment & Services,United States
+57665,NKE,NIKE INC,Consumer Cyclical,Footwear & Accessories,United States
+18145,YETI,YETI HOLDINGS INC,Consumer Cyclical,Leisure,United States
+23660,CTAS,CINTAS CORP,Industrials,Specialty Business Services,United States
+89216,AYI,ACUITY BRANDS INC,Industrials,Electrical Equipment & Parts,United States
+11618,FAST,FASTENAL CO,Industrials,Industrial Distribution,United States
+61313,DCI,DONALDSON INC,Industrials,Specialty Industrial Machinery,United States
+49154,TGT,TARGET CORP,Consumer Defensive,Discount Stores,United States
+15488,PYPL,PAYPAL HOLDINGS INC,Financial Services,Credit Services,United States
+75186,SCHW,SCHWAB CHARLES CORP NEW,Financial Services,Capital Markets,United States
+92121,DFS,DISCOVER FINANCIAL SERVICES,Financial Services,Credit Services,United States
+11018,FBP,FIRST BANCORP P R,Financial Services,Banks - Regional,United States
+66325,SLM,S L M CORP,Financial Services,Credit Services,United States
+77178,QCOM,QUALCOMM INC,Technology,Semiconductors,United States
+52230,RHI,ROBERT HALF INC,Industrials,Staffing & Employment Services,United States
+76709,IDXX,I D E X X LABORATORIES INC,Healthcare,Diagnostics & Research,United States
+91556,ROST,ROSS STORES INC,Consumer Cyclical,Apparel Retail,United States
+89003,FIS,FIDELITY NATIONAL INFO SVCS INC,Technology,Information Technology Services,United States
+25785,F,FORD MOTOR CO DEL,Consumer Cyclical,Auto Manufacturers,United States
+12369,GM,GENERAL MOTORS CO,Consumer Cyclical,Auto Manufacturers,United States
+70228,TOL,TOLL BROTHERS INC,Consumer Cyclical,Residential Construction,United States
+27633,R,RYDER SYSTEMS INC,Industrials,Rental & Leasing Services,United States
+12308,CHTR,CHARTER COMMUNICATIONS INC NEW,Communication Services,Telecom Services,United States
+14580,MGNI,MAGNITE INC,Communication Services,Advertising Agencies,United States
+89258,PRU,PRUDENTIAL FINANCIAL INC,Financial Services,Insurance - Life,United States
+77462,M,MACYS INC,Consumer Cyclical,Department Stores,United States
+27828,HPQ,H P INC,Technology,Computer Hardware,United States
+45911,SWKS,SKYWORKS SOLUTIONS INC,Technology,Semiconductors,United States
+81055,COF,CAPITAL ONE FINANCIAL CORP,Financial Services,Credit Services,United States
+13604,BERY,BERRY GLOBAL GROUP INC,Consumer Cyclical,Packaging & Containers,United States
+28804,ALK,ALASKA AIRGROUP INC,Industrials,Airlines,United States
+86868,GS,GOLDMAN SACHS GROUP INC,Financial Services,Capital Markets,United States
+85035,QRVO,QORVO INC,Technology,Semiconductors,United States
+89327,ABG,ASBURY AUTOMOTIVE GROUP INC,Consumer Cyclical,Auto & Truck Dealerships,United States
+15456,FL,FOOT LOCKER INC,Consumer Cyclical,Apparel Retail,United States
+77496,MHK,MOHAWK INDUSTRIES INC,Consumer Cyclical,"Furnishings, Fixtures & Appliances",United States
+84372,VYX,N C R VOYIX CORP,Technology,Information Technology Services,United States
+15071,SYNH,SYNEOS HEALTH INC,Healthcare,Biotechnology,United States
+90520,CE,CELANESE CORP DEL,Basic Materials,Chemicals,United States
+18428,DOW,DOW INC,Basic Materials,Chemicals,United States
+15408,KHC,KRAFT HEINZ CO,Consumer Defensive,Packaged Foods,United States
+66157,USB,U S BANCORP DEL,Financial Services,Banks - Regional,United States
+12641,AL,AIR LEASE CORP,Industrials,Rental & Leasing Services,United States
+12473,KNX,KNIGHT SWIFT TRANSPORT HDLGS INC,Industrials,Trucking,United States
+18062,ELAN,ELANCO ANIMAL HEALTH INC,Healthcare,Drug Manufacturers - Specialty & Generic,United States
+60442,PNC,P N C FINANCIAL SERVICES GRP INC,Financial Services,Banks - Regional,United States
+70519,C,CITIGROUP INC,Financial Services,Banks - Diversified,United States
+89353,JBLU,JETBLUE AIRWAYS CORP,Industrials,Airlines,United States
+89290,SYNA,SYNAPTICS INC,Technology,Semiconductors,United States
+59459,TRV,TRAVELERS COMPANIES INC,Financial Services,Insurance - Property & Casualty,United States
+42585,SJM,SMUCKER J M CO,Consumer Defensive,Packaged Foods,United States
+38156,WMB,WILLIAMS COS,Energy,Oil & Gas Midstream,United States
+91531,OC,OWENS CORNING NEW,Industrials,Building Products & Equipment,United States
+71563,TFC,TRUIST FINANCIAL CORP,Financial Services,Banks - Regional,United States
+40125,DXC,D X C TECHNOLOGY CO,Technology,Information Technology Services,United States
+20065,CNXC,CONCENTRIX CORP,Technology,Information Technology Services,United States
+25487,CAR,AVIS BUDGET GROUP INC,Industrials,Rental & Leasing Services,United States
+92432,ENSG,ENSIGN GROUP INC,Healthcare,Medical Care Facilities,United States
+29612,AIT,APPLIED INDUSTRIAL TECHS INC,Industrials,Industrial Distribution,United States
+93356,SPSC,S P S COMMERCE INC,Technology,Software - Infrastructure,United States
+85059,FIX,COMFORT SYSTEMS USA INC,Industrials,Engineering & Construction,United States
+16318,ELF,E L F BEAUTY INC,Consumer Defensive,Household & Personal Products,United States
+80412,ADC,AGREE REALTY CORP,Real Estate,REIT - Retail,United States
+32707,HP,HELMERICH & PAYNE INC,Energy,Oil & Gas Drilling,United States
+43123,ATI,A T I INC,Industrials,Metal Fabrication,United States
+90126,CYTK,CYTOKINETICS INC,Healthcare,Biotechnology,United States
+75342,MTH,MERITAGE HOMES CORP,Consumer Cyclical,Residential Construction,United States
+17919,EPRT,ESSENTIAL PROPERTIES RLTY TR INC,Real Estate,REIT - Diversified,United States
+92729,JBT,JOHN BEAN TECHNOLOGIES CORP,Industrials,Specialty Industrial Machinery,United States
+81220,NSIT,INSIGHT ENTERPRISES INC,Technology,Electronics & Computer Distribution,United States
+78038,RDN,RADIAN GROUP INC,Financial Services,Insurance - Specialty,United States
+19945,ASO,ACADEMY SPORTS & OUTDOORS INC,Consumer Cyclical,Specialty Retail,United States
+17830,RTX,R T X CORP,Industrials,Aerospace & Defense,United States
+10145,HON,HONEYWELL INTERNATIONAL INC,Industrials,Conglomerates,United States
+48725,UNP,UNION PACIFIC CORP,Industrials,Railroads,United States
+87447,UPS,UNITED PARCEL SERVICE INC,Industrials,Integrated Freight & Logistics,United States
+85592,PLD,PROLOGIS INC,Real Estate,REIT - Industrial,United States
+86111,AMT,AMERICAN TOWER CORP NEW,Real Estate,REIT - Specialty,United States
+84769,APH,AMPHENOL CORP NEW,Technology,Electronic Components,United States
+19285,CARR,CARRIER GLOBAL CORP,Industrials,Building Products & Equipment,United States
+60506,PCAR,PACCAR INC,Industrials,Farm & Heavy Construction Machinery,United States
+13688,PCG,P G & E CORP,Utilities,Utilities - Regulated Electric,United States
+24205,NEE,NEXTERA ENERGY INC,Utilities,Utilities - Regulated Electric,United States
+18411,SO,SOUTHERN CO,Utilities,Utilities - Regulated Electric,United States
+90989,CCO,CLEAR CHANNEL OUTDOOR HLDGS NEW,Communication Services,Advertising Agencies,United States
+90436,HALO,HALOZYME THERAPEUTICS INC,Healthcare,Biotechnology,United States
+18456,SWAV,SHOCKWAVE MEDICAL INC,Healthcare,Medical Devices,United States
+92596,IRDM,IRIDIUM COMMUNICATIONS INC,Communication Services,Telecom Services,United States
+13244,MTDR,MATADOR RESOURCES CO,Energy,Oil & Gas E&P,United States
+91402,GTLS,CHART INDUSTRIES INC,Industrials,Specialty Industrial Machinery,United States
+79338,LNW,LIGHT & WONDER INC,Consumer Cyclical,Gambling,United States
+12681,STAG,STAG INDUSTRIAL INC,Real Estate,REIT - Industrial,United States
+68292,SIGI,SELECTIVE INSURANCE GROUP INC,Financial Services,Insurance - Property & Casualty,United States
+20161,CHRD,CHORD ENERGY CORP,Energy,Oil & Gas E&P,United States
+30680,CMC,COMMERCIAL METALS CO,Basic Materials,Steel,United States
+28345,MUR,MURPHY OIL CORP,Energy,Oil & Gas E&P,United States
+84389,SSB,SOUTHSTATE CORP,Financial Services,Banks - Regional,United States
+92108,BX,BLACKSTONE INC,Financial Services,Asset Management,United States
+19654,SNOW,SNOWFLAKE INC,Technology,Software - Application,United States
+18726,CRWD,CROWDSTRIKE HOLDINGS INC,Technology,Software - Infrastructure,United States

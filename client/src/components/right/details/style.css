@@ -1,0 +1,35 @@
+.details{
+    width: 95%;
+    margin: 30px auto;
+}
+
+.details ul{
+    display: flex;
+    justify-content: space-between;
+}
+.details ul li{
+    width: 22%;
+}
+.details ul table{
+    width: 100%;
+    line-height: 40px;
+}
+.details ul table tr td{
+    border-bottom: 1px dashed #000;
+}
+.details ul table tr td:nth-child(1){
+    text-align: left;
+    width: 50%;
+    color: #939393;
+}
+.details ul table tr td:nth-child(2){
+    width: 50%;
+    text-align: right;
+}
+
+.text ul li{
+    width: 32%;
+}
+.text ul li table tbody tr td:nth-child(1){
+ width: 30%;
+}
